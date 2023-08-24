@@ -2,7 +2,7 @@
 
 Meu nome é Thay Pereira
 
--Estou estudando alura
+-Estou estudando na [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo por linguagem JavaScript
 
@@ -10,3 +10,17 @@ Meu nome é Thay Pereira
 
 ### Segue lá 
   @o_thay12
+
+
+![](https://media.tenor.com/2O5rSBNyHoMAAAAd/parrot-thinking-mitu-thinking.gif)
+
+
+
+
+
+
+
+
+
+
+
